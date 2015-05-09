@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Miniature Calendar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_prev_img">Previous Image</string>
+    <string name="action_next_img">Next Image</string>
+    <string name="action_go_to_day">Go To Day</string>
+    <string name="error_submission_button_text">Submit error report</string>
+    <string name="loading_image_progress_dialog_title">Loading Image</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="title_activity_home_screen_widget">HomeScreenWidgetActivity</string>
+
+</resources>

@@ -1,0 +1,10 @@
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/mi1"
+          android:title="whatever"
+          android:showAsAction="always"
+          android:icon="@drawable/ic_launcher" />
+
+</menu>
+       

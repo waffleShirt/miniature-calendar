@@ -1,0 +1,5 @@
+How to handle network properly:
+http://developer.android.com/training/basics/network-ops/connecting.html
+
+Site that the PSD with the Calendar icon came from
+http://speckyboy.com/2012/06/10/android-gui-stencils-kits-and-templates/

@@ -1,0 +1,4 @@
+Update the widget update service so that it won't try to load todays image again if it has already been downloaded
+
+Update the regular app to find the url for images using the new system (this works from 15/07/2012 onwards). This will also need to yse the task based system. 
+Anything before the listed date can use the old system. The old system probably could be updated to use the task system as well, it's just a matter of the URL format for the actual calendar page being different, but there was a lot of inconsistencies then so it's probably not worth it)

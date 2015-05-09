@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    Notes:
+    * minWidth & minHeight = 250dp = 4 cells, as specified in the Android widget design guidelines.
+    * This will force the app widget to always be a 4x4 cell size on the home screen.
+    * Resizing is disabled with resizeMode set to none
+    * Update period set to 3600000 milliseconds (one hour)
+-->
+
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="250dp"
+    android:minHeight="250dp"
+    android:minResizeWidth="250dp"
+    android:minResizeHeight="250dp"
+    android:updatePeriodMillis="3600000"
+    android:resizeMode="none"
+    android:widgetCategory="home_screen|keyguard"
+    android:previewImage="@drawable/preview"
+    android:initialLayout="@layout/widget_homescreen_layout"
+    android:initialKeyguardLayout="@layout/widget_homescreen_layout"
+
+    >
+
+</appwidget-provider>
